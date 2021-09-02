@@ -44,7 +44,7 @@ function Bought () {
                     <li className="item-info">
                         <button className="accordion">Description</button>
                         <div className="panel">
-                            <p>Lorem ipsum...</p>
+                            <p></p>
                         </div>
                     </li>
                     <li className="item-processing"><a><select name="amount">
@@ -81,7 +81,7 @@ function Bought () {
                             <option>11 UK / 45,5 EU/ 12 US</option>
                             <option>11,5 UK / 46 EU/ 12,5 US</option>
                             <option>12 UK / 47 EU/ 13 US</option>
-                            <option>12,5 UK / 47,5 EU/ 13,5 US</option>
+                            <option selected>12,5 UK / 47,5 EU/ 13,5 US</option>
                         </optgroup>
                     </select></a></li>
                     <li className="item-amount"><a><select name="amount">
@@ -89,7 +89,7 @@ function Bought () {
                             <option> 1</option>
                             <option>2</option>
                             <option>3</option>
-                            <option>4</option>
+                            <option selected>4</option>
                             <option>5</option>
                             <option>6</option>
                             <option>7</option>
@@ -104,7 +104,7 @@ function Bought () {
                     <li className="item-info">
                         <button className="accordion">Description</button>
                         <div className="panel">
-                            <p>Lorem ipsum...</p>
+                            <p></p>
                         </div>
                     </li>
                     <li className="item-processing"><a><select name="amount">

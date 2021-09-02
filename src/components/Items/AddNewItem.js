@@ -15,12 +15,12 @@ class AddNewItem extends Component {
                 <div className="item-container container">
                     <div className="item-image"><img src="shoes-photos/Abstract_Add_1-copy.jpg" alt="" className="item-photo-img" /></div>
                     <ul className="item-description">
-                        <li className="item-name"><a>Name</a></li>
+                        <li className="item-name"><textarea>Name</textarea></li>
                         <li className="item-size"><a><select name="size">
                             <optgroup label="Men's Sizes">
                                 <option> 3 UK / 35,5 EU/ 5 US</option>
                                 <option>6,5 UK / 40 EU/ 7,5 US</option>
-                                <option selected>7 UK / 40,5 EU/ 8 US</option>
+                                <option>7 UK / 40,5 EU/ 8 US</option>
                                 <option>7,5 UK / 41 EU/ 8,5 US</option>
                                 <option>8 UK / 42 EU/ 9 US</option>
                                 <option>8,5 UK / 42,5 EU/ 9,5 US</option>

@@ -44,7 +44,7 @@ function SaleInProgress () {
                     <li className="item-info">
                         <button className="accordion">Description</button>
                         <div className="panel">
-                            <p>Lorem ipsum...</p>
+                            <p></p>
                         </div>
                     </li>
                     <li className="item-processing"><a><select name="amount">
@@ -104,7 +104,7 @@ function SaleInProgress () {
                     <li className="item-info">
                         <button className="accordion">Description</button>
                         <div className="panel">
-                            <p>Lorem ipsum...</p>
+                            <p></p>
                         </div>
                     </li>
                     <li className="item-processing"><a><select name="amount">

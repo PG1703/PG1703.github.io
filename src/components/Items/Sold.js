@@ -13,7 +13,7 @@ function Sold () {
                             <option>7 UK / 40,5 EU/ 8 US</option>
                             <option>7,5 UK / 41 EU/ 8,5 US</option>
                             <option>8 UK / 42 EU/ 9 US</option>
-                            <option>8,5 UK / 42,5 EU/ 9,5 US</option>
+                            <option selected>8,5 UK / 42,5 EU/ 9,5 US</option>
                             <option>9 UK / 43 EU/ 10 US</option>
                             <option>9,5 UK / 44 EU/ 10,5 US</option>
                             <option>10 UK / 44,5 EU/ 11 US</option>
@@ -29,7 +29,7 @@ function Sold () {
                             <option> 1</option>
                             <option>2</option>
                             <option>3</option>
-                            <option>4</option>
+                            <option selected>4</option>
                             <option>5</option>
                             <option>6</option>
                             <option>7</option>
@@ -44,7 +44,7 @@ function Sold () {
                     <li className="item-info">
                         <button className="accordion">Description</button>
                         <div className="panel">
-                            <p>Lorem ipsum...</p>
+                            <p></p>
                         </div>
                     </li>
                     <li className="item-processing"><a><select name="amount">
@@ -72,7 +72,7 @@ function Sold () {
                             <option>7 UK / 40,5 EU/ 8 US</option>
                             <option>7,5 UK / 41 EU/ 8,5 US</option>
                             <option>8 UK / 42 EU/ 9 US</option>
-                            <option>8,5 UK / 42,5 EU/ 9,5 US</option>
+                            <option selected>8,5 UK / 42,5 EU/ 9,5 US</option>
                             <option>9 UK / 43 EU/ 10 US</option>
                             <option>9,5 UK / 44 EU/ 10,5 US</option>
                             <option>10 UK / 44,5 EU/ 11 US</option>
@@ -91,7 +91,7 @@ function Sold () {
                             <option>4</option>
                             <option>5</option>
                             <option>6</option>
-                            <option>7</option>
+                            <option selected>7</option>
                             <option>8</option>
                             <option>9</option>
                             <option>10</option>
@@ -103,7 +103,7 @@ function Sold () {
                     <li className="item-info">
                         <button className="accordion">Description</button>
                         <div className="panel">
-                            <p>Lorem ipsum...</p>
+                            <p></p>
                         </div>
                     </li>
                     <li className="item-processing"><a><select name="amount">
