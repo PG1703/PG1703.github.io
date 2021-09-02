@@ -32,7 +32,8 @@ break;
     }
 }
         return <div className="currency-container">
-            <h1 className="currency-size">Kurs euro : {VAL}</h1>
+            <div className="currency-title">Today's currency conversion</div>
+            <h1 className="currency-form"> 1 Euro = {VAL} Złoty</h1>
         </div>
     }
 };
