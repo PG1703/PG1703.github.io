@@ -13,7 +13,7 @@ class AddNewItem extends Component {
             <div className="section-header"><strong> Add item</strong></div>
             <div className="item">
                 <div className="item-container container">
-                    <div className="item-image"><img src="shoes-photos/1.jpg" alt="" className="item-photo-img" /></div>
+                    <div className="item-image"><img src="shoes-photos/Abstract_Add_1-copy.jpg" alt="" className="item-photo-img" /></div>
                     <ul className="item-description">
                         <li className="item-name"><a>Name</a></li>
                         <li className="item-size"><a><select name="size">
@@ -67,9 +67,7 @@ class AddNewItem extends Component {
                                 </Modal.Footer>
                             </Modal>
                             <div className="panel">
-                                <p>The airj jordan is one and onluyasm, dkadawoidjjawiojdawd
-
-                                    Retail Price: 789 złoty</p>
+                                <p></p>
                             </div>
                         </li>
                         <li className="item-processing"><a><select name="amount">

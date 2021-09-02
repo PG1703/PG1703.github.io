@@ -3,7 +3,11 @@
 /**
 footer
 **/
-
+@media (max-width: 800px) {
+  .page-footer .page-footer-nav-list .container{
+    flex-direction: column;
+  }
+}
 .page-footer {
   height: 270px;
   background: darkred;
@@ -37,4 +41,5 @@ footer
 .page-footer-copyright {
   color:#FF3D00;
   font-style: italic;
+  margin: 20px;
 }

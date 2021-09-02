@@ -5,7 +5,7 @@ function Bought () {
             <div className="item-container container">
                 <div className="item-image"><img src="shoes-photos/Air-Jordan-1-Retro-High-Hyper-Royal-Smoke-Grey-Product.jpg" alt="" className="item-photo-img"/></div>
                 <ul className="item-description">
-                    <li className="item-name"><a>Name</a></li>
+                    <li className="item-name"><a>Air Jordan 1 Retro High Hyper Royal</a></li>
                     <li className="item-size"><a><select name="size">
                         <optgroup label="Men's Sizes">
                             <option> 3 UK / 35,5 EU/ 5 US</option>
@@ -63,9 +63,9 @@ function Bought () {
 
         <div className="item">
             <div className="item-container container">
-                <div className="item-image"><img src="shoes-photos/1.jpg" alt="" className="item-photo-img"/></div>
+                <div className="item-image"><img src="shoes-photos/img01.webp" alt="" className="item-photo-img"/></div>
                 <ul className="item-description">
-                    <li className="item-name"><a>Name</a></li>
+                    <li className="item-name"><a>Jordan 1 Retro High Shadow 2.0</a></li>
                     <li className="item-size"><a><select name="size">
                         <optgroup label="Men's Sizes">
                             <option> 3 UK / 35,5 EU/ 5 US</option>

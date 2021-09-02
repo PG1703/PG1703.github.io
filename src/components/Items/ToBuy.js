@@ -6,7 +6,7 @@ function ToBuy () {
                 <div className="item-image"><img src="shoes-photos/air-jordan-11-concord.jpg" alt=""
                                                  className="item-photo-img" /></div>
                 <ul className="item-description">
-                    <li className="item-name"><a>Name</a></li>
+                    <li className="item-name"><a>Air Jordan 11 Concord</a></li>
                     <li className="item-size"><a><select name="size">
                         <optgroup label="Men's Sizes">
                             <option> 3 UK / 35,5 EU/ 5 US</option>
@@ -67,7 +67,7 @@ function ToBuy () {
                 <div className="item-image"><img src="shoes-photos/Air-Jordan-1-Retro-High-Dior-Product.webp" alt=""
                                                  className="item-photo-img" /></div>
                 <ul className="item-description">
-                    <li className="item-name"><a>Name</a></li>
+                    <li className="item-name"><a>Air Jordan 1 Retro High Dior</a></li>
                     <li className="item-size"><a><select name="size">
                         <optgroup label="Men's Sizes">
                             <option> 3 UK / 35,5 EU/ 5 US</option>
@@ -126,12 +126,12 @@ function ToBuy () {
         <div className="item">
             <div className="item-container container">
                 <div className="item-image">
-                    <img src="shoes-photos/Air-Jordan-1-Retro-High-Hyper-Royal-Smoke-Grey-Product.jpg"
+                    <img src="shoes-photos/img01 (1).webp"
                          alt=""
                     className="item-photo-img" />
                 </div>
                 <ul className="item-description">
-                    <li className="item-name"><a>Name</a></li>
+                    <li className="item-name"><a>Jordan 1 Low Fragment x Travis Scott</a></li>
                     <li className="item-size"><a><select name="size">
                         <optgroup label="Men's Sizes">
                             <option> 3 UK / 35,5 EU/ 5 US</option>

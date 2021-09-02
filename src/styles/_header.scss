@@ -2,15 +2,30 @@
 Header
 **/
 
+@media (max-width: 800px) {
+  .header {
+    flex-direction: column;
+  }
+  .header-nav
+  {
+    flex-direction: column;
+  }
+  .header-container{
+    flex-direction: column;
+    height: 50%;
+  }
+}
+
 .logo{
   font-size: 40px;
   font-family: "Book Antiqua";
   color: crimson;
+  margin: 20px;
 
 }
 
 .container {
-  width: 1352px;
+  width: 100%;
   margin: 0 auto;
 }
 
