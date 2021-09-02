@@ -1,0 +1,33 @@
+
+/**
+Banner
+**/
+.banner {
+  height: 700px;
+  background-image: url(../shoes-photos/nike-air.jpg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #fff;
+}
+
+.banner-title {
+  font-size: 57px;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.banner-title span {
+
+  font-weight: 900;
+}
+
+.banner-text {
+  font-size: 20px;
+  font-weight: 400;
+  opacity: 0.6;
+}

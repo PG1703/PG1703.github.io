@@ -1,0 +1,40 @@
+
+
+/**
+footer
+**/
+
+.page-footer {
+  height: 270px;
+  background: darkred;
+}
+
+.page-footer .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+
+.page-footer-nav-list {
+  display: flex;
+  list-style: none;
+}
+
+.page-footer-nav-list li {
+  margin-left: 20px;
+}
+
+.page-footer-nav-list a {
+  text-decoration: none;
+  color: #8E9696;
+}
+
+.page-footer-nav-list a:hover {
+  color: #F35044;
+}
+
+.page-footer-copyright {
+  color:#FF3D00;
+  font-style: italic;
+}

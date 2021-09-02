@@ -1,0 +1,21 @@
+
+/**
+Sections header
+**/
+@media (max-width: 800px){
+  .section-header{}
+}
+.section-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 200px;
+  border: 2px solid #E1F5FE;
+  font-family: "Cambria Math";
+  font-size: 40px;
+  font-weight: 700;
+  text-transform:uppercase;
+  color:#236B8E;
+  background:linear-gradient(180deg, black, red 75%, white) ;
+}

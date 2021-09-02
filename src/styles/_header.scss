@@ -1,0 +1,33 @@
+/**
+Header
+**/
+
+.logo{
+  font-size: 40px;
+  font-family: "Book Antiqua";
+  color: crimson;
+
+}
+
+.container {
+  width: 1352px;
+  margin: 0 auto;
+}
+
+
+.header {
+  height: 70px;
+  box-shadow: 0 3px 6px rgba(0,0,0,.16);
+  background: rgba(23, 35, 36, 0.72);
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+
+.header-nav {
+  display: flex;
+}
