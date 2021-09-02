@@ -15,8 +15,12 @@ Header
     height: 50%;
   }
 }
-
+.logo-whole{
+  display: flex;
+  justify-content: space-between;
+}
 .logo{
+  display: flex;
   font-size: 40px;
   font-family: "Book Antiqua";
   color: crimson;

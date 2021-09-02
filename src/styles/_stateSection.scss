@@ -3,7 +3,9 @@
 Sections header
 **/
 @media (max-width: 800px){
-  .section-header{}
+  .section-header{
+    flex-direction: column;
+  }
 }
 .section-header {
   display: flex;

@@ -7,12 +7,14 @@ import ToBuy from "./components/Items/ToBuy";
 import Bought from "./components/Items/Bought";
 import SaleInProgress from "./components/Items/SaleInProgress";
 import Sold from "./components/Items/Sold";
+import Currency from "./components/currency/Currency";
 
 function App() {
   return (
       <div>
-    <Header />
+      <Header/>
       <Banner/>
+      <Currency/>
       <AddNewItem/>
       <ToBuy/>
       <Bought/>
