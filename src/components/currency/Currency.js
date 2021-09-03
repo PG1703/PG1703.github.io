@@ -5,7 +5,7 @@ const Currency = () => {
     const [EUR, setData] = useState(false);
 
     useEffect(() => {
-        fetch("http://api.nbp.pl/api/exchangerates/rates/A/EUR/today/")
+        fetch("http://api.nbp.pl/api/exchangerates/rates/A/EUR/")
             .then(response => response.text())
             .then(EUR => {
                 setData(EUR);
